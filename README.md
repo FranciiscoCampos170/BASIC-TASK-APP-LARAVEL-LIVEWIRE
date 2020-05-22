@@ -11,6 +11,10 @@
 
 - You are all set to go. Visit http://127.0.0.1:8000/ to view the basic task App
 
+## LIVEWIRE
+
+[Docs](https://github.com/livewire/livewire)
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
