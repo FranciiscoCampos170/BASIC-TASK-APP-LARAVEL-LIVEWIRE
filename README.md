@@ -13,7 +13,8 @@
 
 ## LIVEWIRE
 
-[Docs](https://github.com/livewire/livewire)
+[Repo](https://github.com/livewire/livewire)
+[Docs](https://laravel-livewire.com/docs/quickstart)
 
 ## License
 
